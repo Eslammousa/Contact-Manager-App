@@ -1,0 +1,13 @@
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.exe
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.dll.config
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.deps.json
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.runtimeconfig.json
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.dll
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\bin\Debug\net9.0\Contact  Manager Application.pdb
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\Contact  Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\Contact  Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\Contact  Manager Application.dll
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\refint\Contact  Manager Application.dll
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\Contact  Manager Application.pdb
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\Contact  Manager Application.genruntimeconfig.cache
+C:\Users\eslam\source\repos\Contact  Manager Application\Contact  Manager Application\obj\Debug\net9.0\ref\Contact  Manager Application.dll
