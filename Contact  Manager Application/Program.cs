@@ -89,7 +89,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y != "n")
+                    if (y != "y")
                     {
                         break;
                     }
