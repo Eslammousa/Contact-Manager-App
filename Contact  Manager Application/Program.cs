@@ -12,13 +12,13 @@ namespace Contact__Manager_Application
         static void Main(string[] args)
         {
             Console.WriteLine(" ============== Welcome To Contact Manager ==============  ");
-           List<Email> emails = new List<Email>();
-           List<Phone> phones = new List<Phone>();
-           List<Address> addresses = new List<Address>();
+            List<Email> emails = new List<Email>();
+            List<Phone> phones = new List<Phone>();
+            List<Address> addresses = new List<Address>();
             List<User> users = new List<User>();
 
-            
-            
+
+
             var contact = new Contact();
 
             while (true)
@@ -36,7 +36,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y == "n")
+                    if (y != "y")
                     {
                         break;
                     }
@@ -50,7 +50,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y == "n")
+                    if (y != "y")
                     {
                         break;
                     }
@@ -63,7 +63,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y == "n")
+                    if (y != "y")
                     {
                         break;
                     }
@@ -76,7 +76,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y == "n")
+                    if (y != "y")
                     {
                         break;
                     }
@@ -89,7 +89,7 @@ namespace Contact__Manager_Application
                     Console.Write("Do you want to continue (y/n) : ");
                     var y = Console.ReadLine();
 
-                    if (y == "n")
+                    if (y != "n")
                     {
                         break;
                     }
@@ -102,15 +102,15 @@ namespace Contact__Manager_Application
 
             }
 
- 
-                
-            }
 
-  
-     
 
         }
 
-        
+
+
+
     }
+
+
+}
 
